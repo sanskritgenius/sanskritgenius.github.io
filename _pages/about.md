@@ -10,7 +10,7 @@ redirect_from:
 
 # Summer Coding Camp Announcement
 
-![Summer Coding Camp Banner](https://example.com/summer-coding-camp-banner.jpg)
+🚀
 
 Hello fellow coding enthusiasts!
 
